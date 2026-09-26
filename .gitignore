@@ -1,0 +1,16 @@
+# Environment variables (contains your real DB password)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv-1/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
